@@ -1,0 +1,8 @@
+D:\SEMESTER 4\05. Information Security and Assurance KP B\UTS\shopisa\shopisa_LIB\bin\Debug\shopisa_LIB.dll
+D:\SEMESTER 4\05. Information Security and Assurance KP B\UTS\shopisa\shopisa_LIB\bin\Debug\shopisa_LIB.pdb
+D:\SEMESTER 4\05. Information Security and Assurance KP B\UTS\shopisa\shopisa_LIB\bin\Debug\MySql.Data.dll
+D:\SEMESTER 4\05. Information Security and Assurance KP B\UTS\shopisa\shopisa_LIB\obj\Debug\shopisa_LIB.csproj.CoreCompileInputs.cache
+D:\SEMESTER 4\05. Information Security and Assurance KP B\UTS\shopisa\shopisa_LIB\obj\Debug\shopisa_LIB.csproj.CopyComplete
+D:\SEMESTER 4\05. Information Security and Assurance KP B\UTS\shopisa\shopisa_LIB\obj\Debug\shopisa_LIB.dll
+D:\SEMESTER 4\05. Information Security and Assurance KP B\UTS\shopisa\shopisa_LIB\obj\Debug\shopisa_LIB.pdb
+D:\SEMESTER 4\05. Information Security and Assurance KP B\UTS\shopisa\shopisa_LIB\obj\Debug\shopisa_LIB.csproj.AssemblyReference.cache

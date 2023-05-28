@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shopisa", "shopisa\shopisa.csproj", "{EFF1FC81-9550-4CE4-9B3F-48AFC02AA2CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shopisa_LIB", "shopisa_LIB\shopisa_LIB.csproj", "{CA6566A7-15FE-4018-B6D6-CC750337F8D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF1FC81-9550-4CE4-9B3F-48AFC02AA2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF1FC81-9550-4CE4-9B3F-48AFC02AA2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF1FC81-9550-4CE4-9B3F-48AFC02AA2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF1FC81-9550-4CE4-9B3F-48AFC02AA2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6566A7-15FE-4018-B6D6-CC750337F8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6566A7-15FE-4018-B6D6-CC750337F8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6566A7-15FE-4018-B6D6-CC750337F8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6566A7-15FE-4018-B6D6-CC750337F8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EE2501C-35D9-413C-B295-4DEB13F674BA}
+	EndGlobalSection
+EndGlobal
