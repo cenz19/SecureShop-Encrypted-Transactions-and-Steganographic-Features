@@ -1,9 +1,9 @@
-# SecureShop - Online Shop with Encryption/Decryption and Steganography
+# 🏪 SecureShop - Online Shop with Encryption/Decryption and Steganography
 
 # Description:
 SecureShop is an innovative online shopping application developed using C# programming language with MySQL as the database backend. It provides a secure and feature-rich platform for sellers, buyers, and administrators. The application incorporates encryption/decryption techniques and steganography for enhanced security and privacy.
 
-# Features:
+# 👁️ Features:
 
 1. Seller:
 Sellers can add products to the database along with their respective prices.
@@ -20,3 +20,8 @@ The application features a unique login page where users can register and log in
 Steganography allows users to hide their credentials within image files, providing an additional layer of security during authentication.
 
 Overall, SecureShop offers a secure online shopping experience by incorporating encryption, decryption, and steganography techniques. It ensures data privacy, user authentication, and facilitates seamless transactions between sellers and buyers while providing the necessary administrative tools for system management.
+
+# 🤝 Contribution:
+Contributions to this repository are welcome! If you have ideas for additional features, improvements, or bug fixes, please feel free to submit a pull request. Let's collaborate and enhance this project together.
+
+Feel free to modify and expand upon this description to provide more specific details about your project. Good luck with your mid-term project
